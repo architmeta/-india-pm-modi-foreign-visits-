@@ -1,0 +1,173 @@
+serial_no,country,date,year,continent,majority_religion,expense_inr_lakhs,multi_country_visit,source_url
+2,Malaysia,"07 Feb – 08 Feb , 2026",2026,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+1,Israel,"25 – 26 Feb , 2026",2026,Asia,Judaism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+13,France,10 Feb 2025 – 14 Feb 2025,2025,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+13,USA,10 Feb 2025 – 14 Feb 2025,2025,North America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+12,Mauritius,11 March 2025 – 12 March 2025,2025,Africa,Hinduism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+11,Thailand,3 April 2025 -6 April 2025,2025,Asia,Buddhism,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+11,Sri Lanka,3 April 2025 -6 April 2025,2025,Asia,Buddhism,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+10,Saudi Arabia,22 April 2025 -22 April 2025,2025,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+9,Cyprus,"15 June – 19 June, 2025",2025,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+9,Canada,"15 June – 19 June, 2025",2025,North America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+9,Croatia,"15 June – 19 June, 2025",2025,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+8,Ghana,"02 July – 09 July, 2025",2025,Africa,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+8,Trinidad,"02 July – 09 July, 2025",2025,North America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+8,Tobago,"02 July – 09 July, 2025",2025,North America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+8,Argentina,"02 July – 09 July, 2025",2025,South America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+8,Brazil,"02 July – 09 July, 2025",2025,South America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+8,Namibia,"02 July – 09 July, 2025",2025,Africa,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+7,United Kingdom,"23 July – 26 July, 2025",2025,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+7,Maldives,"23 July – 26 July, 2025",2025,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+6,Japan,"28 Aug – 1 Sep, 2025",2025,Asia,Shinto / Buddhism,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+6,China,"28 Aug – 1 Sep, 2025",2025,Asia,No majority / Buddhism,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+5,Bhutan,"11 November – 12 November , 2025",2025,Asia,Buddhism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+4,South Africa,"21 November – 23 November , 2025",2025,Africa,Christianity,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+3,Jordan,"15 Dec – 18 Dec , 2025",2025,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+3,Ethiopia,"15 Dec – 18 Dec , 2025",2025,Africa,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+3,and Oman,"15 Dec – 18 Dec , 2025",2025,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+24,United Arab Emirates (UAE),"13 February – 15 February, 2024",2024,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+24,Qatar,"13 February – 15 February, 2024",2024,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+23,Bhutan,"22 March – 23 March, 2024",2024,Asia,Buddhism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+22,Italy,"13 June – 14 June, 2024",2024,Europe,Christianity,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+21,Russia,"8 July – 10 July, 2024",2024,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+21,Austria,"8 July – 10 July, 2024",2024,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+20,Poland,"21 Aug – 23 Aug, 2024",2024,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+20,Ukraine,"21 Aug – 23 Aug, 2024",2024,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+19,Brunei,"3 Sep – 5 Sep, 2024",2024,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+19,Singapore,"3 Sep – 5 Sep, 2024",2024,Asia,Buddhism,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+18,USA,"21 Sep – 24 Sep, 2024",2024,North America,Christianity,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+17,Laos,"10 October – 11 October, 2024",2024,Asia,Buddhism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+16,Russia,"22 October – 23 October, 2024",2024,Europe,Christianity,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+15,Nigeria,"16 November – 22 November, 2024",2024,Africa,Islam / Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+15,Brazil,"16 November – 22 November, 2024",2024,South America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+15,Guyana,"16 November – 22 November, 2024",2024,South America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+14,Kuwait,21 Dec 2024 – 22 Dec 2024,2024,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+30,Japan,"19 May – 25 May, 2023",2023,Asia,Shinto / Buddhism,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+30,Papua New Guinea,"19 May – 25 May, 2023",2023,Oceania,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+30,Australia,"19 May – 25 May, 2023",2023,Oceania,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+29,United States of America (USA),"20 June – 25 June, 2023",2023,North America,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+29,Egypt,"20 June – 25 June, 2023",2023,Africa,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+28,France,"13 July – 15 July, 2023",2023,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+28,United Arab Emirates (UAE),"13 July – 15 July, 2023",2023,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+27,South Africa,"22 August – 25 August, 2023",2023,Africa,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+27,Greece,"22 August – 25 August, 2023",2023,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+26,Indonesia,"6 September – 7 September, 2023",2023,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+25,Dubai,"30 November – 1 December, 2023",2023,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+37,Germany,"02 May- 05 May, 2022",2022,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+37,Denmark,"02 May- 05 May, 2022",2022,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+37,France,"02 May- 05 May, 2022",2022,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+36,Nepal,"16 May – 16 May, 2022",2022,Asia,Hinduism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+35,Japan,"23 May – 24 May, 2022",2022,Asia,Shinto / Buddhism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+34,Germany,"26 June – 28 June, 2022",2022,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+34,UAE,"26 June – 28 June, 2022",2022,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+33,Samarkand,"15 September – 16 September, 2022",2022,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+33,Uzbekistan,"15 September – 16 September, 2022",2022,Asia,Islam,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+32,Japan,"26 September – 27 September, 2022",2022,Asia,Shinto / Buddhism,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+31,Indonesia,"14 November – 16 November, 2022",2022,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+40,Bangladesh,"26 March- 27 March, 2021",2021,Asia,Islam,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+39,USA,"22 September – 26 September, 2021",2021,North America,Christianity,,NO,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+38,Italy,"29 October – 02 November, 2021",2021,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+38,UK,"29 October – 02 November, 2021",2021,Europe,Christianity,,YES,https://www.pmindia.gov.in/en/details-of-foreigndomestic-visits/
+10,South Korea,"21 Feb – 22 Feb, 2019",2019,Asia,No majority,"9,48,38,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+9,Maldives,"08 June – 09 June, 2019",2019,Asia,Islam,IAF BBJ Aircraft,YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+9,Sri Lanka,"08 June – 09 June, 2019",2019,Asia,Buddhism,IAF BBJ Aircraft,YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+8,Kyrgyzstan,"13 June – 14 June, 2019",2019,Asia,Islam,"9,37,11,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+7,Japan,"27 June – 29 June, 2019",2019,Asia,Shinto / Buddhism,"9,91,62,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+6,Bhutan,"17 August – 18 August, 2019",2019,Asia,Buddhism,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+5,Russia,"04 September – 05 September , 2019",2019,Europe,Christianity,"12,02,80,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+4,USA,"21 September – 28 September , 2019",2019,North America,Christianity,"23,27,09,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+3,Saudi Arabia,"28 October – 29 October, 2019",2019,Asia,Islam,"5,03,03,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+2,Thailand,"02 November- 04 November, 2019",2019,Asia,Buddhism,"6,68,34,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+1,Brazil,"13 November- 15 November, 2019",2019,South America,Christianity,"20,01,61,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+24,Switzerland,"22 Jan-23 Jan,2018",2018,Europe,Christianity,"13,20,83,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+23,Jordan,"09 Feb-12 Feb,2018",2018,Asia,Islam,"9,59,64,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+23,Palestine,"09 Feb-12 Feb,2018",2018,Asia,Islam,"9,59,64,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+23,UAE,"09 Feb-12 Feb,2018",2018,Asia,Islam,"9,59,64,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+23,Oman,"09 Feb-12 Feb,2018",2018,Asia,Islam,"9,59,64,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+22,Sweden,"16 April-20 April,2018",2018,Europe,Christianity,"10,62,57,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+22,UK,"16 April-20 April,2018",2018,Europe,Christianity,"10,62,57,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+22,Germany,"16 April-20 April,2018",2018,Europe,Christianity,"10,62,57,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+21,China,"26 April-28 April,2018",2018,Asia,No majority / Buddhism,"6,07,46,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+20,Nepal,"11 May-12 May,2018",2018,Asia,Hinduism,"1,61,09,298",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+19,Russia,"21 May-22 May,2018",2018,Europe,Christianity,"7,26,38,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+18,Indonesia,"29 May-2 June,2018",2018,Asia,Islam,"10,21,84,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+18,Malaysia,"29 May-2 June,2018",2018,Asia,Islam,"10,21,84,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+18,Singapore,"29 May-2 June,2018",2018,Asia,Buddhism,"10,21,84,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+17,China,"09 June-10 June,2018",2018,Asia,No majority / Buddhism,"7,83,56,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+16,Rwanda,"23 July-28 July,2018",2018,Africa,Christianity,"14,11,76,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+16,Uganda,"23 July-28 July,2018",2018,Africa,Christianity,"14,11,76,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+16,South Africa,"23 July-28 July,2018",2018,Africa,Christianity,"14,11,76,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+15,Nepal,"30 Aug – 31 Aug, 2018",2018,Asia,Hinduism,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+14,Japan,"27 Oct – 30 Oct, 2018",2018,Asia,Shinto / Buddhism,"8,51,10,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+13,Singapore,"13 Nov – 15 Nov, 2018",2018,Asia,Buddhism,"5,20,40,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+12,Maldives,"17 Nov – 17 Nov, 2018",2018,Asia,Islam,"3,48,42,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+11,Argentina,"28 Nov – 3 Dec, 2018",2018,South America,Christianity,"15,59,83,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+31,Sri Lanka,"11 May-12 May, 2017",2017,Asia,Buddhism,"5,24,04,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+30,Germany,"29 May-3 June, 2017",2017,Europe,Christianity,"16,51,95,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+30,Spain,"29 May-3 June, 2017",2017,Europe,Christianity,"16,51,95,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+30,Russia,"29 May-3 June, 2017",2017,Europe,Christianity,"16,51,95,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+30,France,"29 May-3 June, 2017",2017,Europe,Christianity,"16,51,95,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+29,Kazakhstan,"8 June-9 June, 2017",2017,Asia,Islam,"5,65,08,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+28,Portugal,"24 June-27 June, 2017",2017,Europe,Christianity,"13,82,81,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+28,USA,"24 June-27 June, 2017",2017,North America,Christianity,"13,82,81,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+28,Netherlands,"24 June-27 June, 2017",2017,Europe,Christianity,"13,82,81,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+27,Israel,"4 July-8 July, 2017",2017,Asia,Judaism,"11,28,48,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+27,Germany,"4 July-8 July, 2017",2017,Europe,Christianity,"11,28,48,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+26,China,"3 Sept-7 Sept, 2017",2017,Asia,No majority / Buddhism,"13,87,80,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+26,Myanmar,"3 Sept-7 Sept, 2017",2017,Asia,Buddhism,"13,87,80,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+25,Philippines,"12 Nov-14 Nov,2017",2017,Asia,Christianity,"10,11,68,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+39,Belgium,"30 Mar – 03 Apr, 2016",2016,Europe,Christianity,"15,85,02,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+39,USA,"30 Mar – 03 Apr, 2016",2016,North America,Christianity,"15,85,02,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+39,Saudi Arabia,"30 Mar – 03 Apr, 2016",2016,Asia,Islam,"15,85,02,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+38,Iran,"22 May – 23 May, 2016",2016,Asia,Islam,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+37,Afghanistan,"4 June – 9 June, 2016",2016,Asia,Islam,"13,91,66,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+37,Qatar,"4 June – 9 June, 2016",2016,Asia,Islam,"13,91,66,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+37,Switzerland,"4 June – 9 June, 2016",2016,Europe,Christianity,"13,91,66,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+37,USA,"4 June – 9 June, 2016",2016,North America,Christianity,"13,91,66,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+37,Mexico,"4 June – 9 June, 2016",2016,North America,Christianity,"13,91,66,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+36,Uzbekistan,"23 June – 24 June, 2016",2016,Asia,Islam,"6,32,78,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+35,Mozambique,"7 July – 11 July, 2016",2016,Africa,Christianity,"12,80,94,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+35,South Africa,"7 July – 11 July, 2016",2016,Africa,Christianity,"12,80,94,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+35,Tanzania,"7 July – 11 July, 2016",2016,Africa,Christianity / Islam,"12,80,94,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+35,Kenya,"7 July – 11 July, 2016",2016,Africa,Christianity,"12,80,94,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+34,Vietnam,"2 Sept – 5 Sept, 2016",2016,Asia,Buddhism,"9,53,91,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+34,China,"2 Sept – 5 Sept, 2016",2016,Asia,No majority / Buddhism,"9,53,91,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+33,Laos,"7 Sept – 8 Sept, 2016",2016,Asia,Buddhism,"4,77,51,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+32,Japan,"10 Nov-12 Nov, 2016",2016,Asia,Shinto / Buddhism,"13,05,86,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+51,Seychelles,"10 March – 14 March, 2015",2015,Africa,Christianity,"15,85,25,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+51,Mauritius,"10 March – 14 March, 2015",2015,Africa,Hinduism,"15,85,25,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+51,Sri Lanka,"10 March – 14 March, 2015",2015,Asia,Buddhism,"15,85,25,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+50,Singapore,"28 March – 29 March, 2015",2015,Asia,Buddhism,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+49,France,"9 April – 17 April, 2015",2015,Europe,Christianity,"31,25,78,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+49,Germany,"9 April – 17 April, 2015",2015,Europe,Christianity,"31,25,78,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+49,Canada,"9 April – 17 April, 2015",2015,North America,Christianity,"31,25,78,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+48,China,"14 April – 19 May, 2015",2015,Asia,No majority / Buddhism,"15,15,43,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+48,Mongolia,"14 April – 19 May, 2015",2015,Asia,Buddhism,"15,15,43,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+48,South Korea,"14 April – 19 May, 2015",2015,Asia,No majority,"15,15,43,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+47,Bangladesh,"6 June – 7 June, 2015",2015,Asia,Islam,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+46,Uzbekistan,"6 July – 14 July, 2015",2015,Asia,Islam,"15,78,39,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+46,Kazakhstan,"6 July – 14 July, 2015",2015,Asia,Islam,"15,78,39,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+46,Russia,"6 July – 14 July, 2015",2015,Europe,Christianity,"15,78,39,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+46,Turkmenistan,"6 July – 14 July, 2015",2015,Asia,Islam,"15,78,39,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+46,Kyrgyzstan,"6 July – 14 July, 2015",2015,Asia,Islam,"15,78,39,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+46,Tajikistan,"6 July – 14 July, 2015",2015,Asia,Islam,"15,78,39,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+45,United Arab Emirates,"16 Aug – 17 Aug, 2015",2015,Asia,Islam,"5,90,66,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+44,Ireland,"23 Sept – 29 Sept, 2015",2015,Europe,Christianity,"18,46,95,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+44,USA,"23 Sept – 29 Sept, 2015",2015,North America,Christianity,"18,46,95,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+43,UK,"12Nov – 16 Nov, 2015",2015,Europe,Christianity,"9,30,93,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+43,Turkey,"12Nov – 16 Nov, 2015",2015,Europe / Asia,Islam,"9,30,93,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+42,Malaysia,"20 Nov – 24 Nov, 2015",2015,Asia,Islam,"7,04,93,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+42,Singapore,"20 Nov – 24 Nov, 2015",2015,Asia,Buddhism,"7,04,93,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+41,France,"29 Nov – 30 Nov, 2015",2015,Europe,Christianity,"6,82,81,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+40,Russia,"23 Dec – 25 Dec, 2015",2015,Europe,Christianity,"8,14,11,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+40,Afghanistan,"23 Dec – 25 Dec, 2015",2015,Asia,Islam,"8,14,11,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+40,Pakistan,"23 Dec – 25 Dec, 2015",2015,Asia,Islam,"8,14,11,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+58,Bhutan,"15 June – 16 June, 2014",2014,Asia,Buddhism,"2,45,27,465",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+57,Brazil,"13 July – 17 July, 2014",2014,South America,Christianity,"20,35,48,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+56,Nepal,"3 Aug – 5 Aug, 2014",2014,Asia,Hinduism,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+55,Japan,"30 Aug – 3 Sept, 2014",2014,Asia,Shinto / Buddhism,"13,47,58,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+54,USA,"25 Sept – 1 Oct, 2014",2014,North America,Christianity,"19,04,60,000",NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
+53,Myanmar,"11 Nov – 20 Nov, 2014",2014,Asia,Buddhism,"22,58,65,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+53,Australia,"11 Nov – 20 Nov, 2014",2014,Oceania,Christianity,"22,58,65,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+53,Fiji,"11 Nov – 20 Nov, 2014",2014,Oceania,Christianity,"22,58,65,000",YES,https://www.pmindia.gov.in/en/previous-foreign-visits/
+52,Nepal,"25 Nov – 27 Nov, 2014",2014,Asia,Hinduism,IAF BBJ Aircraft,NO,https://www.pmindia.gov.in/en/previous-foreign-visits/
