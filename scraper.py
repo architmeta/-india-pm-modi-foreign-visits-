@@ -282,4 +282,4 @@ def run(force_full: bool = False):
 
 
 if __name__ == "__main__":
-    run(force_full=True)
+    run()   # ← update mode: checks page 1 only
